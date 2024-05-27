@@ -98,7 +98,9 @@ This project aims to automate testing for a healthcare management system named S
 - User Authentication
 - Patient Data Manipulation
 - Error Handling
+- File import with form field testing
 
 ## Future Work
 - Add additional test cases to increase coverage.
 - Enhance error handling scenarios.
+- Proceed with performance and security testing.
